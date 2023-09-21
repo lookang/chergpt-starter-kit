@@ -13,6 +13,9 @@ _* See documentation for streamlit-antd-components [here](https://pypi.org/proje
  -  Enable semantic search on uploaded documents via [LanceDB](https://lancedb.com/)
  -  Preset custom prompt engineering to guide interactions for Q&A
 
+## Deployment
+https://chergptlookang.streamlit.app/
+
 
 ## User-role specific features
 > [!NOTE]  
