@@ -15,6 +15,7 @@ _* See documentation for streamlit-antd-components [here](https://pypi.org/proje
 
 ## Deployment
 https://chergptlookang.streamlit.app/
+https://starterkit.streamlit.app/
 
 
 ## User-role specific features
