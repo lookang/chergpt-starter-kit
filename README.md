@@ -14,8 +14,8 @@ _* See documentation for streamlit-antd-components [here](https://pypi.org/proje
  -  Preset custom prompt engineering to guide interactions for Q&A
 
 ## Deployment
-- https://chergptlookang.streamlit.app/
-- https://starterkit.streamlit.app/
+ -  https://chergptlookang.streamlit.app/
+ -  https://starterkit.streamlit.app/
 
 
 ## User-role specific features
