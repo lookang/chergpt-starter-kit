@@ -13,7 +13,7 @@ from PIL import Image
 
 
 def main():
-	st.title("lookang https://iwant2study.org/ospsg/ using ChatGPT 3.5-turbo, based on CherGPT Starter Kit")
+	st.title("person who suffered from heart attack")
 	sac.divider(label='A String Initiative', icon='house', align='center', direction='horizontal', dashed=False, bold=False)
 	if st.secrets["openai_key"] != "None":
 		st.session_state.api_key  = st.secrets["openai_key"]
